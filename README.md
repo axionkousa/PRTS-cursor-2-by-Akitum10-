@@ -3,7 +3,7 @@
 PRTS cursor 2, created by @Akitum10 on Twitter.
 This is a converted cursor format to be compatible with Linux via X11 or Xcursor standard.
 
-Original: https://drive.google.com/file/d/1PRkgkRhwy7ljwWfEZIYRZ9fjUZDl7lzQ/view
+Tweet: https://x.com/Akitum10/status/1976948733435957739
 
 ### Installation
 1. Download as ZIP
