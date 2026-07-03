@@ -9,7 +9,7 @@ Original: https://drive.google.com/file/d/1PRkgkRhwy7ljwWfEZIYRZ9fjUZDl7lzQ/view
 1. Download as ZIP
 2. Unzip the directory
 3. Go to '~/.icons'
-4. 'mkdir' a directory name for your PRTS cursor
+4. `mkdir` a directory name for your PRTS cursor
 5. Extract the file into that directory, but leave README behind
 6. Depending on your desktop environment, you should select the cursor theme within the settings. I use Kubuntu: Go to system settings, Appearance, Cursors, and apply the cursor theme
 
